@@ -18,3 +18,5 @@
 ## **Encadrant**  
 **[Nom de l'encadrant]**
 
+## **Résumé** 
+Ce projet a pour objectif de [décrire brièvement le but principal du projet]. 
